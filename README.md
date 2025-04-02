@@ -1,6 +1,6 @@
 ## Pour la professeure
 
-**Nom de l'étudiant : [Henrique Oliveira]**
+**Nom de l'étudiant : Henrique Oliveira**
 
 ---
 
