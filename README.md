@@ -1,3 +1,9 @@
+## Pour la professeure
+
+**Nom de l'étudiant : [Henrique Oliveira]**
+
+---
+
 # Exercice : Git et le versioning
 
 Ce projet fait partie du cours **Développement Web (S2 - 1ère année)**.  
