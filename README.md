@@ -10,4 +10,4 @@ L’objectif est de pratiquer Git en suivant les étapes ci-dessous :
 5. Créer un dépôt GitHub et y envoyer le projet  
 6. Créer une nouvelle branche
 
-Bon travail ! :)
+Bon travail !
